@@ -2,6 +2,7 @@
 Spring Boot 2.6.6
 Java version 1.8
 Database: postgreSQL
+create database vpp_db.
 
 API:
 For create:
